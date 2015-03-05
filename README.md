@@ -22,7 +22,7 @@ I've arranged them in steps:
 1. Solving the problem. These docs focus on the actual **process** of building, shipping and testing a product.
 1. Measuring success. Finally, these docs focus on **analytics**, the PM's BFF.
 
-I've provided the docs in as many formats as seems sensible. Please feel free to add any others (see contributing).
+I've provided the docs in MD format only to allow for editing.
 
 ## Future
 
